@@ -4,5 +4,6 @@ class Main{
         System.out.println("Виталя слабый");
         System.out.println("Вадим бездарь");
         System.out.println("Юра молодец");
+        System.out.println("Практическая работа №6");
     }
 }
