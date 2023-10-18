@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Небо голубое");
         System.out.println("Трава зелёная");
         System.out.println("А я хочу получить 5 за тк");
+        System.out.println("Практическая работа №7");
     }
 }
